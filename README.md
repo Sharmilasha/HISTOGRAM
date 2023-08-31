@@ -64,14 +64,13 @@ plt.title("Equalised Image")
 plt.axis("off")
 plt.imshow(equ)
 plt.show()
-
-
-
-
-
-
-
 ```
+
+
+
+
+
+
 ## Output:
 ### Input Grayscale Image and Color Image
 <br>
